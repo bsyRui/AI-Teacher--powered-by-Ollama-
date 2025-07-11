@@ -9,7 +9,8 @@ BASE_SAVE_DIR = "your/path/folder/to/store"
 ```
 example:
 ```py
-BASE_SAVE_DIR = /home/ngzz/Documents/Notepad/Main/01_Knowledge/Languages```
+BASE_SAVE_DIR = /home/ngzz/Documents/Notepad/Main/01_Knowledge/Languages
+```
 
 It will create a folder like the one I'm about to show u
 
